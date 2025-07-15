@@ -52,7 +52,7 @@
   transition: 0.2s;
 }
 .navbar-links a:hover {
-  color: #c26027;
+  color: #90E0EF;
 }
 .bar {
   width: 25px;
@@ -78,7 +78,7 @@
   align-items: center;
 }
 .dropdown > a::after {
-  content: url("/assets/downward-arrow.png");
+  content: url("../src/assets/downward-arrow.png");
   display: inline-block;
   transition: transform 0.3s ease;
 }
@@ -134,12 +134,14 @@
 }
 
 .btn-primary {
-  background-color: #c26027;
+  background-color: #90E0EF;
   color: white;
   padding: 10px 30px;
   transition: background-color 0.2s ease;
 }
-
+.btn-primary a{
+  color: #05172C;
+}
 .btn-primary:hover {
-  background-color: #9b4514;
+  background-color: #0077b6;
 }
