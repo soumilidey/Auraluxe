@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-function Footer() {
+function Footerdemo() {
   const toTop = () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
@@ -121,4 +121,4 @@ const Sep = styled.div`
   margin-left: 30px;
   margin-right: 30px;
 `;
-export default Footer;
+export default Footerdemo;
