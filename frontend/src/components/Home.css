@@ -1,4 +1,9 @@
 #main {
   margin-top: 20px;
   padding: 100px;
+   overflow-x: hidden;
+}
+.spline{
+  transform: translateX(20%);
+  overflow-x: hidden;
 }
