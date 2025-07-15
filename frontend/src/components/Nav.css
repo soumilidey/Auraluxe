@@ -136,12 +136,11 @@
 
 .btn-primary {
   background-color: #90E0EF;
-  color: white;
   padding: 10px 30px;
   transition: background-color 0.2s ease;
 }
 .btn-primary a{
-  color: #05172C;
+  color: #05172C !important;
 }
 .btn-primary:hover {
   background-color: #0077b6;
