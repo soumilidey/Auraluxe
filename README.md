@@ -1,18 +1,18 @@
 # Auraluxe
 
-### Tagline:
+### Tagline
 
 **"Sound Beyond Silence."**
 
 ---
 
-### Brand Type:
+### Brand Type
 
 **Premium audio tech company** specializing in **AI-driven hearing aids**, **stylish earbuds**, and **immersive sound wearables**.
 
 ---
 
-### Product Line:
+### Product Line
 
 1. **Auraluxe Nova**
    → AI-enhanced smart hearing aids that auto-adjust to ambient noise levels. Sleek, invisible design.
@@ -28,13 +28,13 @@
 
 ---
 
-### Problem it Solves:
+### Problem it Solves
 
 > Most hearing and audio products are either unattractive, expensive, or not intelligent. People need stylish, adaptive audio devices that serve both accessibility and entertainment without compromise.
 
 ---
 
-### Target Audience:
+### Target Audience
 
 * Young tech-savvy users
 * Seniors who want hearing aids that don’t *look* like hearing aids
@@ -43,7 +43,7 @@
 
 ---
 
-### Brand Values:
+### Brand Values
 
 * Accessibility meets luxury
 * AI-powered personalization

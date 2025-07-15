@@ -1,12 +1,16 @@
-import '/src/components/Nav.css';
-import { Link } from 'react-router-dom';
+import "/src/components/Nav.css";
+import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
     <nav id="navbar">
       <div className="navbar-logo">
-        <Link to="/">  
-          <img src="../src/assets/readriot-white-logo.png" alt="ReadRiot" id="logo" />
+        <Link to="/">
+          <img
+            src="../src/assets/readriot-white-logo.png"
+            alt="ReadRiot"
+            id="logo"
+          />
         </Link>
       </div>
 
@@ -30,7 +34,9 @@ function Navbar() {
 
         <Link to="/our-vision/">Our Vision</Link>
         <Link to="/contact/">Contact Us</Link>
-        <Link to="/register" className="btn btn-primary">Sign Up</Link>
+        <Link to="/register" className="btn btn-primary">
+          Sign Up
+        </Link>
       </div>
     </nav>
   );
