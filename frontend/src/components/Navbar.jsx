@@ -6,7 +6,7 @@ function Navbar() {
     <nav id="navbar">
       <div className="navbar-logo">
         <Link to="/">
-          <img src="../src/assets/logo-white.png" alt="Auraluxe" id="logo" />
+          <img src="../src/assets/logo-full.png" alt="Auraluxe" id="logo" />
         </Link>
       </div>
 

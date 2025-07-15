@@ -119,7 +119,7 @@ function Footer() {
             </p>
           </div>
 
-          <p className="copyright">2025 ReadRiot. All Rights Reserved.</p>
+          <p className="copyright">2025 Auraluxe. All Rights Reserved.</p>
         </div>
 
         <p className="email">support@auraluxe.com</p>
