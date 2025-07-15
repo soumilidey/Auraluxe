@@ -11,6 +11,8 @@ function Navbar() {
             alt="ReadRiot"
             id="logo"
           />
+        <Link to="/">  
+          <img src="../src/assets/logo-white.png" alt="Auraluxe" id="logo" />
         </Link>
       </div>
 
@@ -26,9 +28,8 @@ function Navbar() {
         <div className="dropdown">
           <Link to="/products">Products &nbsp;</Link>
           <div className="dropdown-content">
-            {/* These are static product pages, so <a> is okay unless you SPA them */}
-            <a href="/product.html?id=1">Lumino-Flexo</a>
-            <a href="/product.html?id=2">Lovino Smart</a>
+            <a href="/product.html?id=1">1</a>
+            <a href="/product.html?id=2">2</a>
           </div>
         </div>
 
