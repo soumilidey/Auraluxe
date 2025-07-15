@@ -3,9 +3,9 @@
   max-width: 100%;
   background: linear-gradient(
     180deg,
-    rgba(19, 19, 19, 1) 0%,
-    rgb(62, 39, 20) 50%,
-    rgb(100, 56, 20) 100%
+    rgba(5, 23, 44, 1) 0%,
+    rgb(0, 119, 182) 50%,
+    rgb(144, 224, 229) 100%
   ) !important;
   color: white;
   overflow-y: hidden;
@@ -34,7 +34,7 @@
 }
 
 .cta-section h1 span {
-  color: #c26027;
+  color: #d1d5db;
 }
 
 .cta-section p {
@@ -129,7 +129,7 @@
 }
 
 .center-links a:hover {
-  color: #c26027;
+  color: #d1d5db;
 }
 
 @media (min-width: 768px) {
@@ -194,7 +194,7 @@
   position: relative;
   overflow: hidden;
   background-color: transparent;
-  border: 1px solid #c26027;
+  border: 1px solid #d1d5db;
   color: white;
   padding: 10px 30px;
   border-radius: 30px;
@@ -275,7 +275,7 @@
 .email {
   font-size: 8vw; /* Stretches fully across the screen */
   font-weight: 700;
-  color: #c26027;
+  color: #d1d5db;
   margin: 10px 0 0 0;
   margin-left: 10px;
   margin-right: 10px;
@@ -322,16 +322,16 @@
   width: 100%;
   border: none;
   border-radius: 0px;
-  background-color: #364759;
-  color: #f4fafd;
-  font-size: 14px;
+  background-color: transparent;
+  color: #f0f6f8;
+  font-size: 20px;
   padding: 0;
   margin: 0;
   text-align: center;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   cursor: pointer;
   &:hover {
-    background-color: #485768;
+    background-color: rgba(240, 240, 246, 0.3);
   }
 }
