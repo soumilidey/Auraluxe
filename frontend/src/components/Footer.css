@@ -237,7 +237,7 @@
 
 .contact-banner {
   color: white;
-  padding: 20px;
+  overflow-x:hidden;
   text-align: left;
   width: 100%;
   position: relative;
